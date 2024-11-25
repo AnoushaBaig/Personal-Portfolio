@@ -9,7 +9,7 @@ function About() {
                      <div className="relative flex items-center sm:justify-start justify-center sm:mt-0 mt-20 sm:pl-4">
           <div>
             <Image
-              src="/Women.avif"
+              src="/wmm.avif"
               alt="round pict"
               width={670}
               height={200}
